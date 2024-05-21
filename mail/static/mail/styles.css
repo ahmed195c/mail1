@@ -1,0 +1,22 @@
+textarea {
+    min-height: 400px;
+}
+.cont{
+    padding: 3px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.rightside{
+    display: flex;
+    gap: 20px;
+}
+
+.maeil_id{
+    display: none;
+}
+
+.offwhitebg{
+    background-color: rgb(150, 147, 147);
+}
